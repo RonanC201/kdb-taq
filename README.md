@@ -1,5 +1,7 @@
 # kdb+taq
 
+# CMPT git capstone project - change 1
+
 ## Changes to kdb+taq
 
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
